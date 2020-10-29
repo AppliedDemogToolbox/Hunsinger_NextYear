@@ -8,8 +8,6 @@
 ##
 ##THIS IS BASED ON R CODE AVAILABLE AT: https://plus.google.com/+AppliedDemographyToolbox/posts/TPFmUnch3tQ
 ##
-##
-##THE INPUTS USED HERE ARE NOT OFFICIAL OR CAREFULLY DEVELOPED, AND SHOULD ONLY BE USED FOR EXAMPLE
 ##THERE IS NO WARRANTY FOR THIS CODE
 ##THIS CODE HAS NOT BEEN CAREFULLY REVIEWED
 ##############################################################################################################################

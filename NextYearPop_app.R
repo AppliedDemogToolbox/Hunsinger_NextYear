@@ -2,8 +2,8 @@
 ##############################################################################################################################
 ##R CODE FOR POP NEXT YEAR SHINY APP
 ##
-##EDDIE HUNSINGER (AFFILIATION: ALASKA DEPARTMENT OF LABOR AND WORKFORCE DEVELOPMENT), MARCH 2017 (UPDATED OCTOBER 2020)
-##http://u.demog.berkeley.edu/~eddieh/
+##EDDIE HUNSINGER, MARCH 2017 (UPDATED OCTOBER 2020)
+##https://edyhsgr.github.io/
 ##edyhsgr@gmail.com
 ##
 ##THIS IS BASED ON R CODE AVAILABLE AT: https://raw.githubusercontent.com/AppliedDemogToolbox/Hunsinger_NextYearPop/master/NextYearPop.R

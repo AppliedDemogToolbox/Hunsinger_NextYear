@@ -2,11 +2,11 @@
 ##############################################################################################################################
 ##R CODE FOR POP NEXT YEAR SHINY APP
 ##
-##EDDIE HUNSINGER (AFFILIATION: ALASKA DEPARTMENT OF LABOR AND WORKFORCE DEVELOPMENT), MARCH 2017
+##EDDIE HUNSINGER (AFFILIATION: ALASKA DEPARTMENT OF LABOR AND WORKFORCE DEVELOPMENT), MARCH 2017 (UPDATED OCTOBER 2020)
 ##http://u.demog.berkeley.edu/~eddieh/
 ##edyhsgr@gmail.com
 ##
-##THIS IS BASED ON R CODE AVAILABLE AT: https://plus.google.com/+AppliedDemographyToolbox/posts/TPFmUnch3tQ
+##THIS IS BASED ON R CODE AVAILABLE AT: https://raw.githubusercontent.com/AppliedDemogToolbox/Hunsinger_NextYearPop/master/NextYearPop.R
 ##
 ##THERE IS NO WARRANTY FOR THIS CODE
 ##THIS CODE HAS NOT BEEN CAREFULLY REVIEWED
@@ -52,7 +52,7 @@ sidebarPanel(
 
 tags$small(paste0(        
 	"This interface was made with Shiny for R (shiny.rstudio.com).       
-	Eddie Hunsinger, March 2017 (updated January 2020)."
+	Eddie Hunsinger, March 2017 (updated October 2020)."
 	)),
 
 width=3
